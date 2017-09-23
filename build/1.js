@@ -75,7 +75,7 @@ var CorkPage = (function () {
 CorkPage = __decorate([
     Object(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* IonicPage */])(),
     Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-        selector: 'page-cork',template:/*ion-inline-start:"/Users/juz/private/dev/CriticalCount/src/pages/cork/cork.html"*/'<!--\n  Generated template for the CorkPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>cork</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n\n</ion-content>\n'/*ion-inline-end:"/Users/juz/private/dev/CriticalCount/src/pages/cork/cork.html"*/,
+        selector: 'page-cork',template:/*ion-inline-start:"/Users/juz/private/dev/CriticalCount/src/pages/cork/cork.html"*/'<!--\n  Generated template for the CorkPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>Tutorial</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n  <h3>No content yet. Sorry. :)</h3>\n</ion-content>\n'/*ion-inline-end:"/Users/juz/private/dev/CriticalCount/src/pages/cork/cork.html"*/,
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]])
 ], CorkPage);
